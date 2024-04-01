@@ -1,2 +1,0 @@
-# vanillawebprojects
-vanillawebprojects
